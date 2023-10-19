@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "metall-398215",
+  "private_key_id": "aace03277383ed83f5846e6c279f98bbba76d366",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmcdEh8lSrqwE0\n6zQwP4AAhVJcXayiFSrSHpGVMl+U+Zm7p/ItPNjDjZQNoMPxpjtsEky13qo455hc\nm7jDCAntmHWzusNMDbn0ijL0ktsGQTw/6Aj/695VTi4hEi0MDDW6nN5atq2nYFX5\nSapNf0V2v6WhWTJB8vsD15fEQrFgtQ8dD4PWBX0ec5NB9Oy/zUp5xuLpEUNe2nXq\nj86vGhT/1VSmjWpr+pL9pEhhGUC/PFNtCjihdrXTQHkTgXufg4l6E4Xi6oXOh+LW\n3D+EzOSYOCH5uOmNgtVRYgD4X+gapjQv07YbvP5bGYOLRB7KmnJffKQ4QuT5eka6\nNkAUbvvtAgMBAAECggEAAkDbtzUv6sQNp+EAS5/sdHVZnFkDT41wTzhtOaMdMqff\najA3od+nQpx90uJojLK2rrufsL2jOdJ+2FAeY/uNoNsVytleL/8mk5Y0YuXDE9ZZ\nwba7OnW/xJFio/16QSXAK3bYtssu1iuCdnXGGbb9ooItNJ4/xS9MMSzfx98sRhYf\n05LU7XL6pKZsgdx4dgExulzKopwUl3fw9joXLua8YBfLI+35kO6oKXI8Mhtj2PwI\nwvRTkgHjGRWT74Vm9pKbnYw0ozYe72RGRiGJqaC9ekZ4Y9EcWb8lbnb5HqtUoTCv\n4CBUD8nRsgyS0j87L6L0fcqgJfCf3Vn/n9rTJPKW6QKBgQDeozFmtzCmrQsP0l4x\n/5rBv2DbdmkdwsGv3bKOQ8FR9jiGxisbxLlBIvFEi0SVstSymDqQ3iN5vkR+VuDF\nBmX3jvxZ+ConsdD7EsCzsA9Wu7v5spHFpyleFVph5Gm8SYJfwe9HfPAKWbuMn8m/\nmDxToTp/2dvLuUESHADBM5pniQKBgQC/YvSw6XrcdwPqJKYlJ3Jy7XaMWGkLaU4+\niTTY1rQ4A7iUid0Bttf6eLNDNq47//W7PDl3oEfhIWmdqB3eWcMiETp2mT0djK0x\nFJcY8o823UshoYkMbPNYnjr0qKRbtQ+dFcJUw1WT49vyNfnsHFONQH8vGQEWOmuP\nsTHRLO90RQKBgQCP3Wp10liIy/cC8VBXBLGPE0jWZ+zDA2+/YgYYsiXA/ddHF9UR\na4y+T4MSZOAbz+Rrx7zIkhLgf5epACDckCbh0q60wI0U+21sYJDPTCyNQmDUmJRj\n4YH0vt2ZtkyxE9tAX4RscIp4VcXAuBxZR1lsPRodNb03Ju2qcxf1wI+86QKBgDOs\npUKrF7g1DkKG+LEpcHZldU+5g0tIeI7b/v/ZILnLD2hTvO98jd4b/tLUDcE3gAK4\n5Q9OoHnBysF9permM5CcNDvXbi/vTsfktlNPEqoOn/2JnvZS6HVx65speY8lWPzh\n5iF6yD1xFW7VchB1KX4G/xAZYTi+N1KJ1liTGGg9AoGBAIBVuifGeQbq25a8IyFv\nyrS20KsWRVDNAjldCXade/uyN/Llvscdij96rrWAKWCcfy8HTPtN5FzumKqMV82j\naGTkFas/nlz9yb0NxI6dUbzObTvnSNWLLmOMjEtcQawiZVjsEZj4qGWJSUJKileY\nvT2cb5vRrJdDVZ82fN7uw7JM\n-----END PRIVATE KEY-----\n",
+  "client_email": "metall-service@metall-398215.iam.gserviceaccount.com",
+  "client_id": "110463741442384851976",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/metall-service%40metall-398215.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
